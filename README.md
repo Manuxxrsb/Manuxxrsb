@@ -7,11 +7,14 @@
 - ⚡ Fun fact: ...
 
 
+  <h1> prueba de titulo </h1>
+
 
 
   <p>
-    ##prueba de titulo
-    <img class ="icono" src = "iconos/C.svg"/>
+    
+    <img src="Iconos/C.svg" class="icono">
+
     
   </p>
 
