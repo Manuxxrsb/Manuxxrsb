@@ -13,7 +13,10 @@
 
   <p>
     
-    <img src="Iconos/C.svg" class="icono">
+    <img src="Iconos/c++.svg.svg" class="icono">
+    <span> Lenguaje c </span>
+    <img src=>
+
 
     
   </p>
