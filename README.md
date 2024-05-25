@@ -6,8 +6,12 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
   <p>
     ##prueba de titulo
+    <img class ="icono" src = "iconos/C.svg"/>
     
   </p>
 
