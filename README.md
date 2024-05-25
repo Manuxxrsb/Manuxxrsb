@@ -1,9 +1,11 @@
-# Lenguajes de programacion
-  <p> 
-  
+## Lenguajes de programacion
+  <p>
+  <img src="Iconos/c.svg" class="icono">
   <img src="Iconos/c++.svg" class="icono"> 
   <img src="Iconos/html.svg" class="icono">
-  
+  <img src="Iconos/css3.svg" class="icono">
+
+
   pd: en desarrollo
   </p>
 
