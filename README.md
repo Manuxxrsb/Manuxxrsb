@@ -1,24 +1,10 @@
-- 👋 Hi, I’m @Manuxxrsb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-  <h1> prueba de titulo </h1>
-
-
-
-  <p>
-    
-    <img src="Iconos/c++.svg.svg" class="icono">
-    <span> Lenguaje c </span>
-    <img src=>
-
-
-    
+# Lenguajes de programacion
+  <p> 
+  
+  <img src="Iconos/c++.svg" class="icono"> 
+  <span>Probandoooo </span>
+  <img src="Iconos/html.svg" class="icono">
+  pd: en desarrollo
   </p>
 
 <!---
