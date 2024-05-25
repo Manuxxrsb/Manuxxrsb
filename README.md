@@ -2,8 +2,8 @@
   <p> 
   
   <img src="Iconos/c++.svg" class="icono"> 
-  <span>Probandoooo </span>
   <img src="Iconos/html.svg" class="icono">
+  
   pd: en desarrollo
   </p>
 
