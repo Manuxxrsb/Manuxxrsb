@@ -8,7 +8,7 @@
   
   </p>
 
-  ##Redes Sociales 
+  ## Redes Sociales 
   
   <p> 
    <a href ="https://www.instagram.com/manuxxrsb/"> <img src="Iconos/ig.svg" height="50" width="50" > </a>
