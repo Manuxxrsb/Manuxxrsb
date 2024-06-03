@@ -1,11 +1,9 @@
 ## Lenguajes de programacion
   <p>
-   
-  <img src="Iconos/c.svg" height="50" width="50" >
-  <img src="Iconos/c++.svg" height="50" width="50"> 
-  <img src="Iconos/html.svg" height="50" width="50">
-  <img src="Iconos/css3.svg" height="50" width="50">
-  
+   <a href="https://learn.microsoft.com/es-es/cpp/c-language/c-language-reference?view=msvc-170"> <img src="Iconos/c.svg" height="50" width="50" > </a>
+   <a href="https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170"> <img src="Iconos/c++.svg" height="50" width="50"> </a>
+   <a href ="https://lenguajehtml.com/" > <img src="Iconos/html.svg" height="50" width="50"> </a>
+   <a href="https://lenguajecss.com/"> <img src="Iconos/css3.svg" height="50" width="50"> </a>
   </p>
 
   ## Redes Sociales 
