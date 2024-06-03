@@ -11,8 +11,9 @@
   </p>
   <p>
     Redes Sociales
-    <a hrf ="https://www.instagram.com/manuxxrsb/" > <img src="Iconos/ig.svg" class="icono"> </a>
+   
   </p>
+   <a href ="https://www.instagram.com/manuxxrsb/" > <img src="Iconos/ig.svg" class="icono"> </a>
 
 <!---
 Manuxxrsb/Manuxxrsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
