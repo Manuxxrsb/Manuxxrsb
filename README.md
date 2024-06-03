@@ -1,5 +1,6 @@
 ## Lenguajes de programacion
   <p>
+   
   <img src="Iconos/c.svg" class="icono">
   <img src="Iconos/c++.svg" class="icono"> 
   <img src="Iconos/html.svg" class="icono">
@@ -7,6 +8,10 @@
 
 
   pd: en desarrollo
+  </p>
+  <p>
+    Redes Sociales
+    <a hrf ="https://www.instagram.com/manuxxrsb/" > <img src="Iconos/ig.svg" class="icono"> </a>
   </p>
 
 <!---
