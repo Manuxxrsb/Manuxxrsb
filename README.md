@@ -9,10 +9,7 @@
 
   pd: en desarrollo
   </p>
-  <p>
-    Redes Sociales
-   
-  </p>
+  <p> Redes Sociales </p>
    <a href ="https://www.instagram.com/manuxxrsb/" > <img src="Iconos/ig.svg" class="icono"> </a>
 
 <!---
