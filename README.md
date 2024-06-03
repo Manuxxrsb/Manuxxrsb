@@ -1,10 +1,10 @@
 ## Lenguajes de programacion
   <p>
    
-  <img src="Iconos/c.svg" class="icono">
-  <img src="Iconos/c++.svg" class="icono"> 
-  <img src="Iconos/html.svg" class="icono">
-  <img src="Iconos/css3.svg" class="icono">
+  <img src="Iconos/c.svg" height="50" width="50" >
+  <img src="Iconos/c++.svg" height="50" width="50"> 
+  <img src="Iconos/html.svg" height="50" width="50">
+  <img src="Iconos/css3.svg" height="50" width="50">
 
 
 
