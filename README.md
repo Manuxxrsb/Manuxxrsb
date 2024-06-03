@@ -5,13 +5,20 @@
   <img src="Iconos/c++.svg" height="50" width="50"> 
   <img src="Iconos/html.svg" height="50" width="50">
   <img src="Iconos/css3.svg" height="50" width="50">
-
-
-
+  
   </p>
-  <p> Redes Sociales </p>
+
+  ##Redes Sociales 
+  
+  <p> 
    <a href ="https://www.instagram.com/manuxxrsb/"> <img src="Iconos/ig.svg" height="50" width="50" > </a>
    <a href ="https://www.linkedin.com/in/manuel-antonio-solis-gonzalez-398636258/"> <img src="Iconos/linkedin.svg" height="50" width="50" > </a>
+  </p>
+  
+  
+
+
+
    
   pd: en desarrollo
 <!---
