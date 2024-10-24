@@ -1,4 +1,4 @@
-## Lenguajes de programacion
+## Tecnologias
   <p>
    <a href="https://learn.microsoft.com/es-es/cpp/c-language/c-language-reference?view=msvc-170"> <img src="Iconos/c.svg" height="50" width="50" > </a>
    <a href="https://learn.microsoft.com/es-es/cpp/c-language/?view=msvc-170"> <img src="Iconos/c++.svg" height="50" width="50"> </a>
