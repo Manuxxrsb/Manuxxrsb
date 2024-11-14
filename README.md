@@ -25,7 +25,7 @@
   ## Redes Sociales 
   
   <p>
-    <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-instagram-papercut-16.png">
+    <img width="120" height="120" src="https://img.icons8.com/papercut/120/instagram-new.png" alt="instagram-new"/>
    <a href ="https://www.linkedin.com/in/manuel-antonio-solis-gonzalez-398636258/"> <img src="Iconos/linkedin.svg" height="50" width="50" > </a>
   </p>
 
