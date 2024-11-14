@@ -24,8 +24,8 @@
 
   ## Redes Sociales 
   
-  <p> 
-   <a href ="https://www.instagram.com/manuxxrsb/"> <img src="Iconos/ig.svg" height="50" width="50" > </a>
+  <p>
+    <link type="image/png" sizes="16x16" rel="icon" href=".../icons8-instagram-papercut-16.png">
    <a href ="https://www.linkedin.com/in/manuel-antonio-solis-gonzalez-398636258/"> <img src="Iconos/linkedin.svg" height="50" width="50" > </a>
   </p>
 
