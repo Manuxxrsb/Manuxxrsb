@@ -56,8 +56,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=manuxxrsb&label=Visitantes&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=manuxxrsb&label=Visitantes&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)  
 </div>
 
 <!---
