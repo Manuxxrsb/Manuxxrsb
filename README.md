@@ -53,6 +53,13 @@
 <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuxxrsb&layout=pie&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
 
 
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=Bruxar&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
 <!---
 Manuxxrsb/Manuxxrsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
