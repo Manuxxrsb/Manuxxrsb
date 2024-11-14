@@ -25,8 +25,8 @@
   ## Redes Sociales 
   
   <p>
-    <img width="120" height="120" src="https://img.icons8.com/papercut/120/instagram-new.png" alt="instagram-new"/>
-   <a href ="https://www.linkedin.com/in/manuel-antonio-solis-gonzalez-398636258/"> <img src="Iconos/linkedin.svg" height="50" width="50" > </a>
+    <img width="80" height="80" src="https://img.icons8.com/papercut/120/instagram-new.png" alt="instagram-new"/>
+   <a href ="https://www.linkedin.com/in/manuel-antonio-solis-gonzalez-398636258/"> <img width="80" height="80" src="https://img.icons8.com/cute-clipart/64/linkedin.png" alt="linkedin"/> </a>
   </p>
 
   ## IDE's
