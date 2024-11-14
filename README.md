@@ -34,9 +34,9 @@
 
   ## Estadisticas
   
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Manuxxrsb&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Manuxxrsb's github stats"/></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuxxrsb&layout=compact&theme=dark&hide_border=true" /></a>
- <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruxar&layout=pie&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Manuxxrsb&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Manuxxrsb's github stats"/></a>|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuxxrsb&layout=compact&theme=dark&hide_border=true" /></a>
+<img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manuxxrsb&layout=pie&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+
 
 <!---
 Manuxxrsb/Manuxxrsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
